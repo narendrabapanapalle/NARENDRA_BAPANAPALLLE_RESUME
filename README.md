@@ -38,34 +38,40 @@ Highly motivated **3rd-year Computer Science student** with a strong foundation 
 - Engineered a **Retrieval-Augmented Generation (RAG)** pipeline integrating **LangChain** with **OpenAI GPT-3.5-Turbo** for context-aware legal query responses.  
 - Implemented **semantic search** using **Sentence-Transformers** and **Pinecone** for efficient and accurate information retrieval.  
 - Designed a **secure SQLite backend** for authentication, personalized sessions, and persistent chat histories.  
-- 🔗 [View Project](https://github.com/narendrabapanapalle/AI-Project)  
+
+🔗 [View Project](https://github.com/narendrabapanapalle/AI-Project)  
 
 ---
 
 ## 🚀 Projects  
 
-### 🧠 [Campus Knowledge Engine](https://github.com/narendrabapanapalle/Campus-Knowledge-Engine)  
+### 🧠 Campus Knowledge Engine  
 
-Built an intelligent **AI Campus Knowledge Engine** enabling students and faculty to query university documents (course catalogs, admission guides, and policies) via **natural language conversations** — serving as a **24/7 digital campus guide**.  
+Built an intelligent **AI Campus Knowledge Engine** enabling students and faculty to query university documents (course catalogs, admission guides, and policies) through **natural language conversations** — serving as a **24/7 digital campus guide**.  
 
 **Tech Stack:** Python, Streamlit, LangChain, OpenAI, Pinecone, SQLite  
 
+🔗 [View Project](https://github.com/narendrabapanapalle/Campus-Knowledge-Engine)  
+
 ---
 
-### 🌾 [Crop & Fertilizer Recommendation System](https://github.com/narendrabapanapalle/Crop-Fertilizer-Recommendation-System-using-ML)  
+### 🌾 Crop & Fertilizer Recommendation System  
 
-Engineered a **Machine Learning system** recommending optimal crops and fertilizers using real-time inputs like **N, P, K, temperature, humidity, pH, and rainfall**. Implemented a **Decision Tree Classifier** for robust and accurate predictions.  
+Engineered a **Machine Learning system** recommending optimal crops and fertilizers using real-time inputs such as **N, P, K, temperature, humidity, pH, and rainfall**. Implemented a **Decision Tree Classifier** for robust yield predictions.  
 
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Google Colab  
+
+🔗 [View Project](https://github.com/narendrabapanapalle/Crop-Fertilizer-Recommendation-System-using-ML)  
 
 ---
 
 ## 🏅 Certifications  
 
-- **Artificial Intelligence (Infosys):** Completed 150+ hours of certified AI training focused on **ML, DL, NLP, Generative AI, Prompt Engineering**, and **Data Science**.  
+- **Artificial Intelligence (Infosys):** Completed 150+ hours of certified AI training covering **ML, DL, NLP, Generative AI, Prompt Engineering**, and **Data Science**.  
   🔗 [View Certification](https://github.com/narendrabapanapalle/Certifications)  
-- **Generative AI (Microsoft):** Completed a LinkedIn Learning path covering **AI fundamentals**, **search evolution**, and **ethical aspects** of Generative AI.  
-  🔗 [Certification Link](https://github.com/narendrabapanapalle/MsCertification/tree/master)  
+
+- **Generative AI (Microsoft):** Completed a LinkedIn Learning path focusing on **AI fundamentals**, **search evolution**, and **ethical considerations** in Generative AI.  
+  🔗 [View Certification](https://github.com/narendrabapanapalle/MsCertification/tree/master)  
 
 ---
 
